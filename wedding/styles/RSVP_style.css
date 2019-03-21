@@ -1,0 +1,40 @@
+body {
+    margin:0;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    text-align:-webkit-right;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-top:30px;
+}
+.text{
+    margin-right:-500px;
+}
+.answer{
+    margin-right: 330px;
+}
+h1{
+    text-align: center;
+    padding: 0px;
+    margin: 5px 5px;
+}
+
+h2, h3,p {
+    padding: 0px;
+    margin: 5px 5px;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 100;
+}
+
+h3 {
+    color: #ff1844;
+    font-style: italic;
+    font-size: 30px;
+}
+
+p.line {
+    margin: 0px auto 20px auto;
+    color: #000000;
+}
+
